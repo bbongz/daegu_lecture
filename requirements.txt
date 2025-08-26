@@ -1,0 +1,6 @@
+dotenv==0.9.9
+langchain==0.3.27
+langchain-upstage==0.7.3
+pip==25.2
+setuptools==65.5.0
+streamlit==1.48.1
