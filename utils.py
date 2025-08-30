@@ -16,6 +16,7 @@ from langchain.chains import LLMChain
 from langchain.memory import ConversationBufferMemory
 from dotenv import load_dotenv
 
+
 def load_model(model_name: str) -> ChatUpstage:
     """
     주어진 모델 이름을 기반으로 ChatUpstage 모델을 로드합니다.
